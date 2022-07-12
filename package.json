@@ -16,5 +16,17 @@
     "pg-hstore": "^2.3.3",
     "sequelize": "^6.3.5",
     "sequelize-fixtures": "^1.2.0"
-  }
+  },
+  "description": "This is a backend exercise that will give you the chance to see what kind of things we build at JetFuel!",
+  "main": "app.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SamSharff/server-take-home.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SamSharff/server-take-home/issues"
+  },
+  "homepage": "https://github.com/SamSharff/server-take-home#readme"
 }
